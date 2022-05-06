@@ -144,8 +144,10 @@ function calcularPerimetroTriangulo() {
   console.log(
     "Los lados del triángulo son lado 1 " +
       valueL1 +
+      "  " +
       "lado 2 " +
       valueL2 +
+      " " +
       "y base " +
       valueB
   );
